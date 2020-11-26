@@ -1,6 +1,6 @@
 {
 	"name": "@acheetahk/nest-tools",
-	"version": "1.20.2",
+	"version": "1.20.3",
 	"description": "work with nest.js backend",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",

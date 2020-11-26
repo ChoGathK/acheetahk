@@ -1,6 +1,6 @@
 {
 	"name": "@acheetahk/algorithm",
-	"version": "1.12.4",
+	"version": "1.12.5",
 	"description": "work with algorithm",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.16.5 (2020-11-26)
+
+**Note:** Version bump only for package @acheetahk/entity
+
+
+
+
+
 ## [1.16.4](https://github.com/A-CheetahK/acheetahk/compare/@acheetahk/entity@1.16.3...@acheetahk/entity@1.16.4) (2020-11-25)
 
 **Note:** Version bump only for package @acheetahk/entity

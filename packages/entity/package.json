@@ -1,6 +1,6 @@
 {
 	"name": "@acheetahk/entity",
-	"version": "1.16.4",
+	"version": "1.16.5",
 	"description": "work with typeorm",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
