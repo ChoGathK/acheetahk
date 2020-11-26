@@ -1,0 +1,15 @@
+{
+  "include": ["./src"],
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2018",
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "removeComments": false,
+    "declaration": true,
+    "incremental": true,
+    "sourceMap": false,
+  }
+}

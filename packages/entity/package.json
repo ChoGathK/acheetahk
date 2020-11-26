@@ -1,0 +1,21 @@
+{
+	"name": "@acheetahk/entity",
+	"version": "1.16.4",
+	"description": "work with typeorm",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"lint": "eslint \"{src,test}/**/*.ts\" --fix"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/A-CheetahK/acheetahk.git"
+	},
+	"author": "chogath",
+	"license": "BSD-2-Clause",
+	"dependencies": {
+		"typeorm": "^0.2.28"
+	},
+	"gitHead": "fa40a75c69dd5f9345c71fc13d5d8a44ceb7df15"
+}

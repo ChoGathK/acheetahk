@@ -1,0 +1,19 @@
+{
+	"name": "@acheetahk/cloudtools",
+	"version": "2.1.2",
+	"description": "work with cloud server",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"lint": "eslint \"{src,test}/**/*.ts\" --fix"
+	},
+	"author": "chogath",
+	"license": "BSD-2-Clause",
+	"dependencies": {
+		"@types/ali-oss": "^6.0.5",
+		"ali-oss": "^6.11.2",
+		"aliyun-sdk": "^1.12.3"
+	},
+	"gitHead": "ede738b105584639d2d21bb968da4c2d61c415bc"
+}

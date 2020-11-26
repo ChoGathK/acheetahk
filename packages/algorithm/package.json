@@ -1,0 +1,14 @@
+{
+	"name": "@acheetahk/algorithm",
+	"version": "1.12.4",
+	"description": "work with algorithm",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"lint": "eslint \"{src,test}/**/*.ts\" --fix"
+	},
+	"author": "chogath",
+	"license": "BSD-2-Clause",
+	"gitHead": "fa40a75c69dd5f9345c71fc13d5d8a44ceb7df15"
+}

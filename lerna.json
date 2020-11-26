@@ -1,0 +1,17 @@
+{
+  "useWorkspaces": true,
+  "npmClient": "yarn",
+  "version": "independent",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "registry": "https://registry.npmjs.org/"
+    }
+  }
+}

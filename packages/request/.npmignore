@@ -1,0 +1,7 @@
+# build
+*.tsbuildinfo
+tsconfig.json
+
+# src
+src
+test
